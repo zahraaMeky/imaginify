@@ -1,8 +1,7 @@
 <div align="center">
    <br />
-    <a href="https://youtu.be/Ahwoks_dawU?feature=shared" target="_blank">
-      <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/123356306/313502443-2c19def4-72d7-4b31-bfb0-36501390a8ad.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240317%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240317T200606Z&X-Amz-Expires=300&X-Amz-Signature=0c70316d08107af0d86e7766d4a59bba54d1379d909b49e5142005b855f173b6&X-Amz-SignedHeaders=host&actor_id=123356306&key_id=0&repo_id=770373095" alt="Project Banner">
-    </a>
+    ![imaginify](https://github.com/zahraaMeky/imaginify/assets/123356306/9d655529-7564-48ed-97a7-a845c031cf88)
+
   <br />
 
   <div>
