@@ -31,7 +31,7 @@ import MediaUploader from "./MediaUploader"
 import { updateCredits } from "@/lib/actions/user.actions"
 import { getCldImageUrl } from "next-cloudinary"
 import { useRouter } from "next/navigation"
-import { addImage } from "@/lib/actions/image.actions"
+import { addImage, updateImage } from "@/lib/actions/image.actions"
 import TransformedImage from "./TransformedImage"
 import { InsufficientCreditsModal } from "./InsufficientCreditsModal"
  
