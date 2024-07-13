@@ -1,7 +1,9 @@
 <div align="center">
-   <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/123356306/313504503-9d655529-7564-48ed-97a7-a845c031cf88.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240317%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240317T204609Z&X-Amz-Expires=300&X-Amz-Signature=efd7edea51f4e263932545d4fd890530fc98c094ebca794fbf16e80ce0bbc287&X-Amz-SignedHeaders=host&actor_id=123356306&key_id=0&repo_id=773501213" alt="nextdotjs" />
-  <br />
+
+https://github.com/user-attachments/assets/56d445f8-2b11-48f3-ba3f-adb7fe9e5a21
+  
    <br />
+
   <div>
     <img src="https://img.shields.io/badge/-Next_JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=000000" alt="nextdotjs" />
     <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6" alt="typescript" />
